@@ -1,6 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Parisienne");
+
+@font-face {
+    font-family:"Parisienne";
+    src: url("Parisienne.woff2");
+}
+
+
 body{
+    align-items: center;
     background-image: url(img/wallhaven-q2l83l.jpg);
-    height: 100%;
+    image-rendering: center;
+    background-position: center;
+    background-size: auto;
+    max-width: 100%;
+    
     
 }
 
@@ -8,9 +21,28 @@ h1{
     color: #F1F1F1;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 100px;
+    padding: 20px;
+    padding-top: 200px;
 }
 
 h3{
     color: #F1F1F1;
     font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 15px;
+}
+
+
+h4{
+   color: white;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 15px;
+   align-self: center;
+}
+
+.container{
+    color: white;
+}
+a{
+    color:#fff
+
 }
