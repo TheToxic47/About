@@ -55,13 +55,17 @@ a{
 
 }
 
+.redes{
+    text-align: center;
+}
+
 @media screen and (max-width: 800px) {
 
 
 
 
     body {
-        background-image: url(img/wallhaven-289j79.jpg);
+        background-image: url(img/wallhaven-8o9dw2.jpg);
     
     }
     h1{
