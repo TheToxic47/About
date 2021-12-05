@@ -15,14 +15,11 @@
 
 
 body{
-    align-items: center;
     background-image: url(img/wallhaven-q2l83l.jpg);
-    image-rendering: center;
-    background-position: center;
-    max-width: 100%;
     background-repeat: no-repeat;
-    
-    
+    background-size: 100%;
+    background-attachment: no-repeat;
+
 }
 
 h1{
@@ -66,6 +63,8 @@ a{
 
     body {
         background-image: url(img/wallhaven-8o9dw2.jpg);
+        background-size: auto;
+        background-position: center;
     
     }
     h1{
