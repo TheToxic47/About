@@ -15,16 +15,18 @@
 
 
 body{
-    background-image: url(img/wallhaven-q2l83l.jpg);
+    background-image: url(img/montañas.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
-
+}
+p{
+    color: white;
 }
 
 h1{
     color: #F1F1F1;
     padding: 20px;
-    padding-top: 210px;
+    padding-top: 200px;
     
 }
 
@@ -47,8 +49,7 @@ h4{
     color: white;
 }
 a{
-    color:#fff
-
+    text-decoration:none;
 }
 
 .redes{
